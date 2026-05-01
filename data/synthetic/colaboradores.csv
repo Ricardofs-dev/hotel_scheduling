@@ -1,0 +1,21 @@
+colaborador_id,nome,unidade_hotel,departamento_principal,funcao_principal,nivel_funcao,nivel_experiencia,tipo_contrato,horas_semanais_contrato,horas_max_dia,dias_max_trabalho_semana,custo_hora,pode_noite,pode_fim_semana,pode_feriados,rotativo,max_dias_consecutivos,data_admissao,ativo
+C001,Carlos Almeida,Unidade 1,Housekeeping,Governanta,Chefia,Intermédio,Full-time,40,8,5,13.05,1,1,1,0,5,2019-07-25,1
+C002,Pedro Pereira,Unidade 1,Housekeeping,Supervisora,Supervisão,Junior,Full-time,40,8,5,8.92,1,1,0,0,5,2021-10-02,1
+C003,António Rodrigues,Unidade 1,Housekeeping,Empregada de andares,Operacional,Junior,Full-time,40,8,5,6.8,1,1,1,1,5,2020-09-21,1
+C004,Nuno Fernandes,Unidade 1,Housekeeping,Empregada de andares,Operacional,Junior,Full-time,40,8,5,6.28,1,1,1,0,4,2019-03-15,1
+C005,Mariana Pereira,Unidade 1,Housekeeping,Auxiliar de limpeza,Operacional,Junior,Full-time,40,8,5,6.0,0,1,1,1,4,2021-01-09,1
+C006,Mariana Fernandes,Unidade 1,Housekeeping,Empregada de andares,Operacional,Junior,Full-time,40,8,5,6.65,0,1,0,1,4,2018-09-28,1
+C007,Rita Martins,Unidade 1,Housekeeping,Empregada de andares,Operacional,Junior,Part-time,20,6,3,6.72,0,1,0,1,2,2022-01-21,1
+C008,Patrícia Santos,Unidade 1,Housekeeping,Empregada de andares,Operacional,Junior,Full-time,40,8,5,6.29,0,1,0,1,5,2023-03-31,1
+C009,Joana Ribeiro,Unidade 1,Housekeeping,Governanta,Chefia,Intermédio,Full-time,40,8,5,12.8,1,1,1,0,4,2022-12-13,1
+C010,Rui Ribeiro,Unidade 1,Housekeeping,Supervisora,Supervisão,Intermédio,Full-time,40,8,5,10.61,1,1,1,1,4,2021-03-15,1
+C011,Jorge Rodrigues,Unidade 1,Housekeeping,Governanta,Chefia,Intermédio,Full-time,40,8,5,13.06,1,1,1,1,4,2021-03-26,1
+C012,Joana Oliveira,Unidade 1,Housekeeping,Supervisora,Supervisão,Junior,Full-time,40,8,5,8.93,1,1,1,0,4,2020-08-26,1
+C013,João Martins,Unidade 1,Housekeeping,Empregada de andares,Operacional,Junior,Full-time,40,8,5,6.56,1,1,1,1,4,2019-05-13,1
+C014,Carlos Sousa,Unidade 1,Housekeeping,Auxiliar de limpeza,Operacional,Sénior,Full-time,40,8,5,7.48,1,1,1,1,4,2022-05-26,1
+C015,Inês Costa,Unidade 1,Housekeeping,Empregada de andares,Operacional,Intermédio,Full-time,40,8,5,7.35,1,1,1,1,4,2020-08-26,1
+C016,Inês Pereira,Unidade 1,Housekeeping,Supervisora,Supervisão,Intermédio,Full-time,40,8,5,10.53,1,1,0,1,4,2022-07-12,1
+C017,Paulo Carvalho,Unidade 1,Housekeeping,Governanta,Chefia,Junior,Full-time,40,8,5,11.27,1,1,1,1,4,2020-04-13,1
+C018,Pedro Costa,Unidade 1,Housekeeping,Supervisora,Supervisão,Intermédio,Full-time,40,8,5,10.61,1,1,1,1,5,2019-01-25,1
+C019,Paulo Lopes,Unidade 1,Housekeeping,Auxiliar de limpeza,Operacional,Junior,Part-time,20,6,3,5.77,1,1,1,1,2,2018-07-13,1
+C020,Teresa Ribeiro,Unidade 1,Housekeeping,Supervisora,Supervisão,Intermédio,Full-time,40,8,5,10.73,1,1,1,1,4,2018-07-18,1

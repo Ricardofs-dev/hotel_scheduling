@@ -1,0 +1,18 @@
+# Housekeeping Scheduler — dependências
+# Instalar com: pip install -r requirements.txt
+# Python >= 3.10
+
+# ── Dados e computação ───────────────────────────────────────────────────────
+pandas>=2.0
+numpy>=1.24
+
+# ── Modelo preditivo ─────────────────────────────────────────────────────────
+scikit-learn>=1.3
+joblib>=1.3
+matplotlib>=3.7
+
+# ── Otimização ───────────────────────────────────────────────────────────────
+pulp>=2.7          # inclui o solver CBC
+
+# ── Aplicação ────────────────────────────────────────────────────────────────
+streamlit>=1.30

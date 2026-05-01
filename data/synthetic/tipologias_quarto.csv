@@ -1,0 +1,6 @@
+tipologia_id,tipologia,m2,tempo_limpeza_saida_min,tempo_limpeza_stayover_min,fator_complexidade,n_quartos_existentes,departamento,unidade_hotel,ativo
+TQ01,Single,18.0,25,15,1.0,30,Housekeeping,Unidade 1,1
+TQ02,Double,28.0,35,20,1.3,50,Housekeeping,Unidade 1,1
+TQ03,Twin,30.0,38,22,1.4,25,Housekeeping,Unidade 1,1
+TQ04,Junior Suite,45.0,55,35,1.8,10,Housekeeping,Unidade 1,1
+TQ05,Suite,70.0,80,50,2.5,5,Housekeeping,Unidade 1,1

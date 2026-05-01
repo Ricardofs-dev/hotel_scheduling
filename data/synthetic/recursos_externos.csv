@@ -1,0 +1,6 @@
+recurso_id,fornecedor,tipo_recurso,nome_contacto,departamento,unidade_hotel,custo_hora,qualificacoes,disponibilidade_garantida,tempo_resposta_horas,turno_noite_disponivel,fds_disponivel,ativo
+RE001,Agência HK Pro,agencia,Maria Fonseca,Housekeeping,Unidade 1,12.5,"quartos_saida,quartos_ocupados,areas_publicas",1,2.0,0,1,1
+RE002,Agência HK Pro,agencia,João Esteves,Housekeeping,Unidade 1,12.5,"quartos_saida,quartos_ocupados",1,2.0,0,1,1
+RE003,Freelancer,freelancer,Ana Ribeiro,Housekeeping,Unidade 1,10.0,"quartos_saida,areas_publicas",0,4.0,1,0,1
+RE004,Agência CleanTeam,agencia,Carlos Mota,Housekeeping,Unidade 1,11.0,"quartos_saida,quartos_ocupados,areas_publicas,supervisao",1,1.5,1,1,1
+RE005,Freelancer,freelancer,Sofia Nunes,Housekeeping,Unidade 1,9.5,"areas_publicas,reposicao_amenities",0,6.0,0,1,1

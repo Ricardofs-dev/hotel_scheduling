@@ -1,0 +1,4 @@
+turno_id,departamento,nome_turno,hora_inicio,hora_fim,duracao_horas,tipo_turno,turno_noite,cruza_meia_noite,requer_pausa,horas_pausa,ordem_turno,ativo
+T1,Housekeeping,Manhã,07:00,14:00,7,Principal,0,0,1,0.5,1,1
+T2,Housekeeping,Tarde,14:00,22:00,8,Principal,0,0,1,1.0,2,1
+T3,Housekeeping,Noite,22:00,07:00,9,Reforço,1,1,1,1.0,3,1
