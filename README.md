@@ -105,7 +105,7 @@ A tabela seguinte apresenta dois exemplos representativos de semanas testadas:
 | 19–25 Janeiro | Baixa | Optimal | 100% | 0 € |
 | 4–10 Agosto | Alta | Optimal | 100% | 277 € |
 
-O modelo preditivo (Gradient Boosting) obteve **MAE = 0.34** e **R² = 0.86** na validação com split 80/20 temporal.
+O modelo preditivo (Gradient Boosting) obteve **MAE = 0.20** e **R² = 0.84** na validação com split 80/20 temporal.
 
 ---
 
