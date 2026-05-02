@@ -14,7 +14,8 @@ SEED = 42
 random.seed(SEED)
 np.random.seed(SEED)
 
-OUTPUT_DIR = r"C:\Users\ricar\OneDrive\Ambiente de Trabalho\Pós-Graduações\ISAG\Disciplinas\2º Trimestre\Projeto Final\hotel_scheduling\data\synthetic"
+from pathlib import Path
+OUTPUT_DIR = Path(__file__).resolve().parents[2] / "data" / "synthetic"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Mapeamento de dias da semana para português
