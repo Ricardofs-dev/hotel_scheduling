@@ -100,10 +100,10 @@ Executar `notebooks/04_otimizacao.ipynb` após o passo anterior. A semana otimiz
 
 A tabela seguinte apresenta dois exemplos representativos de semanas testadas:
 
-| Semana | Época | Status | Cobertura | Custo externo |
-|---|---|---|---|---|
-| 19–25 Janeiro | Baixa | Optimal | 100% | 0 € |
-| 4–10 Agosto | Alta | Optimal | 100% | 277 € |
+| Semana | Época | Status | Cobertura | Custo fixo | Custo incremental | Externos |
+|---|---|---|---|---|---|---|
+| 12/01/2026 | Baixa | Optimal ✓ | 42/42 (100%) | 6 782 € | 0 € | 0 |
+| 03/08/2026 | Alta | Optimal ✓ | 42/42 (100%) | 6 782 € | 140 € | 1 |
 
 O modelo preditivo (Gradient Boosting) obteve **MAE = 0.20** e **R² = 0.84** na validação com split 80/20 temporal.
 
